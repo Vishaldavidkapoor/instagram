@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Landing = () => {
+const Feed = () => {
   return (
     <View>
-      <Text>Landing</Text>
+      <Text>Feed</Text>
     </View>
   )
 }
 
-export default Landing
+export default Feed
